@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zau:home|Door43 (zau)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zau|d43-zau repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zau/archive/master.zip|d43-zau.zip]]
+
+**Recent Changes**
+{{changes>ns = zau}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zau|Ethnologue data]]
+
